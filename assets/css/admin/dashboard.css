@@ -1,0 +1,12 @@
+.modal-content{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20%;
+}
+.warning_error{
+    color: red;
+}
+.toast {
+    z-index: 7000;
+}

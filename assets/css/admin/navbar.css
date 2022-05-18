@@ -1,0 +1,17 @@
+.left_bar_link {
+    display: flex;
+    align-items: center;
+}
+.left_bar_link i{
+    position: absolute;
+}
+
+.nav-item .nav-link:hover{
+    color: red !important;
+}
+
+.navbar {
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+}
